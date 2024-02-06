@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    background-color:rgb(175, 182, 182);
+}
+
+.header-area{
+    background-image: url(istockphoto-1326646886-612x612.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 85vh;
+}
+
+nav{
+    display: flex;
+    justify-content: center; /* Center the nav bar horizontally */
+    padding: 0%;
+    transition: 2s;
+    margin: auto;
+    width: auto;
+    margin-top: 0%;
+    text-decoration:initial;
+    height: 60px;
+    
+}
+ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: auto;
+    color: rgb(34, 53, 70);
+}
+li{
+    margin: 0 10px;
+    font-size: 25px;
+    font-style: italic;
+    color:rgb(11, 51, 41);
+    
+}
+img{
+    display: block;
+    margin-top: 30px;
+    margin: auto;
+    width: 10%;
+}
+.Service{
+    background-color: rgb(175, 182, 182);
+}
+.container{
+    width: 80%;
+    margin-top: 0 px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+.Heading{
+    text-align: center;
+    font-size: 45px;
+    font-style: italic;
+    padding: 40px;
+}
+.image{
+    display: flex;
+    height: auto;
+    width: 100%;
+    
+    
+    position: relative;
+    margin-bottom: 2%;
+    overflow: hidden;
+    
+}
+.service-section{
+    padding: 50px 0;
+}
+.service-img{
+    width: 200px;
+    height: 100px;
+}
+.service-img1{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+.Team{
+    background-color: rgb(175, 182, 182);
+    padding: 50px;
+}
+.team-section{
+    display: flex;
+
+   
+}
+.service-img2{
+    width: 150px;
+    height: 100px;
+    margin: auto;
+}
+div{
+    display: block;
+}
+footer{
+    background-color: gray;
+    display: block;
+    height: 60px;
+}
+.foot{
+    text-align: center;
+}
